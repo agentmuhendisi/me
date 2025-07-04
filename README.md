@@ -8,10 +8,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🎯 Mission
 **Making AI accessible through content and code**
 
@@ -26,39 +22,29 @@ const profile = {
 
 ## 🚀 Current Focus
 - **AI Integration** in real-world apps
-- **Educational Content** creation
+- **Educational Content** creation  
 - **Developer Tools** for AI workflows
 - **Community Building** through code
 
-</td>
-<td width="50%" valign="top">
-
 ## 🛠️ Tech Arsenal
 
-### Backend
+**Backend**  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
-### Frontend
+**Frontend**  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 
-### AI & Cloud
+**AI & Cloud**  
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
-</td>
-</tr>
-</table>
+## 📱 Connect & Follow
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-## 📱 Social Media
 <a href="https://linkedin.com/in/agentmuhendisi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -72,36 +58,28 @@ const profile = {
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-</td>
-<td width="33%" valign="top">
+## 🎨 What You'll Get
 
-## 🎨 Content Types
-- **🤖 AI Tutorials** - Practical implementations
-- **💻 Code Walkthroughs** - Step-by-step guides  
-- **🔧 Developer Tools** - Productivity boosters
-- **📚 Tech Reviews** - Honest insights
-- **🎯 Live Coding** - Real-time development
-
-</td>
-<td width="33%" valign="top">
+**🤖 AI Tutorials** - Practical implementations  
+**💻 Code Walkthroughs** - Step-by-step guides  
+**🔧 Developer Tools** - Productivity boosters  
+**📚 Tech Reviews** - Honest insights  
+**🎯 Live Coding** - Real-time development  
 
 ## 🌟 Why Follow?
+
 - **Daily AI insights** and experiments
 - **Practical tutorials** you can use today
 - **Behind-the-scenes** of real projects
 - **Developer productivity** tips & tricks
 - **Community-driven** learning approach
 
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
 ## 🎯 Ready to Build Something Amazing?
 
 **Let's connect and create the future of AI development together!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
